@@ -1,6 +1,6 @@
 # Basic Flask-RESTful API
 
-This project shows one of the possible ways to implement RESTful API server using CRUD operations in Flask.
+This project shows one of the possible ways to implement RESTful API server using CRUD operations w/ Flask.
 
 
 Project structure:
